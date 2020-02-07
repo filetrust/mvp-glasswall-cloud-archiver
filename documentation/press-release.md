@@ -13,7 +13,7 @@ A quick and convenient way of looking inside archive files without extracting fi
 
 # Problem 
 _Describe the problem your product solves._\
-The produced reduces the risk of unpacking an archive file on your local machine and inadvertently opening files containing malicious content. 
+The product reduces the risk of unpacking an archive file on your local machine and inadvertently opening files containing malicious content. 
 
 # Solution 
 _Describe how your product elegantly solves the problem._\
