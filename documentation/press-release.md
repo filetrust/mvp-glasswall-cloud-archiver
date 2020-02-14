@@ -4,34 +4,34 @@ _Name the product in a way the reader (i.e. your target customers) will understa
 Glasswall Cloud Archiver
 
 # Sub-Heading
-_Describe who the market for the product is and what benefit they get. One sentence only underneath the title._\
-Unpack and repack archive files from unknown sources without extracting files to you local machine!
+_Describe who the market for the product is and what benefit they get. One sentence only underneath the title._
+Export and import from archive file through a simple RESTful API!
 
 # Summary 
-_Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good._\
-A quick and convenient way of looking inside archive files without extracting files of unknown content onto your own machine. Having looked into the archive you can cherry-pick the files that are of interest and download a new archive that only contains the files that you need.
+_Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good._
+A quick and convenient way of extracting files from an archive file through a RESTful API. Sending an archive file through a simple API enables the contained files to be extracted from the archive and accessed individually.
+
+A collection of files can be submitted to the same RESTful API and returned as a single archive file.
 
 # Problem 
-_Describe the problem your product solves._\
-The product reduces the risk of unpacking an archive file on your local machine and inadvertently opening files containing malicious content. 
+_Describe the problem your product solves._
+The product enables the archiving and unarchiving of files to be handled programmatically through a RESTful API.
 
 # Solution 
-_Describe how your product elegantly solves the problem._\
-Users drop the archive file onto the web page and are presented with a list of the contained filenames. The user then selects the files that they want to receive, and downloads a new archive file containing only those files. With this approach the original archive is never opened on the users local machine.
+_Describe how your product elegantly solves the problem._
 
-By having visibility of the archive file's manifest you can make decisions about downloading only the files that you want, rather than having to receive everything that is sent in the archive.
 
 # Quote from You 
-_A quote from a spokesperson in your company._\
-"A quick an easy way of browsing archive files within opening them on your own machine" 
+_A quote from a spokesperson in your company._
+"A quick an easy way of accessing archive files programmatically" 
 
 # How to Get Started 
-_Describe how easy it is to get started._\
+_Describe how easy it is to get started._
 Navigate to [URL] and drop your archive on the page.
 
 # Customer Quote 
 _Provide a quote from a hypothetical customer that describes how they experienced the benefit._\
-"Our customers often send a bunch of marketing and supplementary files with the expected documents. With the Glaswall File Archiver I'm now able to sift through the archive and only download the content I need really easily." 
+"POSTing a simple call to this service with my archive file and I get my files really quickly."
 
 # Closing and Call to Action 
 _Wrap it up and give pointers where the reader should go next._\
